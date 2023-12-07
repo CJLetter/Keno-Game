@@ -81,16 +81,6 @@ def checkMatches(picklist, winninglist):
         i += 1
     return matchlist
 
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     import random
     main()
